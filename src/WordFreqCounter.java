@@ -1,6 +1,4 @@
 public class WordFreqCounter {
-    private String phrase;
-    private String word;
 
     public float countFreq(String phrase, String word) {
         float k = 0;
