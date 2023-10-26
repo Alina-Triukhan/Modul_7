@@ -1,5 +1,4 @@
 public class DigitExtracter {
-    private String text;
     public int[] extract(String text) {
         char[] arr = text.toCharArray();
         int k = 0;
