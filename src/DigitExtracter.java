@@ -1,5 +1,3 @@
-import java.security.SecureRandom;
-import java.util.Arrays;
 public class DigitExtracter {
     private String text;
     public int[] extract(String text) {
